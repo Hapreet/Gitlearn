@@ -1,0 +1,18 @@
+*{
+    margin : 0px;
+    padding : 0px;
+}
+body{
+    background-image: url(./bg4.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    color: white;
+   
+}
+.container{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
